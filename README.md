@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5e8af6e0-3c32-467e-8dd2-a0cd4a37c103/deploy-status)](https://app.netlify.com/sites/ismandaiyrov/deploys)
+
 
 ## set-up
 

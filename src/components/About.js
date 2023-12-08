@@ -20,7 +20,7 @@ class About extends React.Component {
     const one = (
       <p>
         I am currently pursuing a <b>Bachelor's of Science in Computer Science</b> at
-        <a href="https://www.ttu.edu/about/"> North American University</a>, graduating in May 2024. 
+        <a href="https://www.na.edu/"> North American University</a>, graduating in May 2024. 
         I am a persistent and dedicated individual. I am passionate about learning new things.
       </p>
     );
