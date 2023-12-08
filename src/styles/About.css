@@ -6,7 +6,7 @@
 }
 
 #about {
-  padding-left: 15%;
+  padding-left: 30%;
   padding-right: 25%;
   min-height: 60vh;
 }
@@ -57,7 +57,7 @@
 }
 
 .about-image img {
-  max-width: 300px;
+  max-width: 600px;
   height: auto;
   border-radius: 10px;
   margin-left: 30px;

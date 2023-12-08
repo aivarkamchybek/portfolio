@@ -4,6 +4,7 @@ import { CSSTransition, TransitionGroup } from "react-transition-group";
 import EmailRoundedIcon from "@material-ui/icons/EmailRounded";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
+import ResumeIcon from "@material-ui/icons/Description";
 
 import "../styles/SidebarNav.css";
 import "react-typist/dist/Typist.css";
@@ -57,6 +58,9 @@ class SidebarNav extends React.Component {
           </Sidenav>
         )}
         <div className="sidebar-logos" href="/">
+        <a href="https://drive.google.com/file/d/1WtLPl2-6yZVwsHp3vQU-1A-ttHvPVM7a/view?usp=sharing">
+            <ResumeIcon style={{ fontSize: 21 }}></ResumeIcon>
+          </a>
           <a href="mailto:aivarkamchybekuulu@gmail.com">
             <EmailRoundedIcon style={{ fontSize: 20 }}></EmailRoundedIcon>
           </a>

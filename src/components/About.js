@@ -26,7 +26,7 @@ class About extends React.Component {
     );
     const two = (
       <p>
-        Outside of college, I play chess, table soccer, travel and tennis.
+       Beyond college, my life is a dynamic blend of soccer, travel, and tennis. Soccer brings teamwork and skill, creating camaraderie on the field. Traveling allows me to explore new cultures, broaden horizons, and create lasting memories. On the tennis court, I find both a mental and physical challenge, complementing the fast-paced nature of soccer. Together, these activities form a vibrant tapestry, offering a well-rounded and fulfilling lifestyle.
       </p>
     );
     const three = (
