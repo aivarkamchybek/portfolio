@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c245d3e-9bff-4ca8-b0c6-49be5c65d986/deploy-status)](https://app.netlify.com/sites/aivar/deploys)
 
 ## set-up
 
