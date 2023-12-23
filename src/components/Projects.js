@@ -31,6 +31,12 @@ class Projects extends React.Component {
         link: "https://github.com/aivarkamchybek/PayNow",
         // open: ""
       },
+      "AI 3D T-Shirt Maker": {
+        desc: "Welcome to the 3D T-Shirt Model Renderer project! This cutting-edge application combines the power of ThreeJS, React Three Fiber, TailwindCSS, and Framer Motion to create an immersive and visually stunning 3D experience",
+        techStack: "JavaScript, Django, React Three Fiber, DALLE AI Integration, TailwindCSS, VSCode",
+        link: "https://github.com/aivarkamchybek/Ai-Powered-3DReactMotionKit",
+        // open: ""
+      },
       "Flashcards": {
         desc: "The flashcards app is a web-based application that allows users to create, store, and review flashcards. The app features a user-friendly interface that makes it easy for users to create new flashcards, edit existing ones, and review them to improve their knowledge.",
         techStack: "Python, HTML/CSS, Bootstrap, VSCode",
