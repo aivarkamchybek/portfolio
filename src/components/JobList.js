@@ -96,7 +96,7 @@ const JobList = () => {
 
       ]
     },
-    Leo Parts: {
+    LeoParts: {
       jobTitle: "Web Developer @",
       duration: "JAN 2022 - AUG 2022",
       location: "Houston, TX",
