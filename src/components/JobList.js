@@ -84,23 +84,29 @@ const JobList = () => {
   const experienceItems = {
     Parts4cells: {
       jobTitle: "Software Engineer Intern @",
-      duration: "JUN 2022 - AUG 2022",
+      duration: "JAN 2023 - AUG 2023",
       location: "Houston, TX",
       desc: [
-        "Streamlined LCD buyback label request process by implementing a PHP-based automated label generation system, resulting in cost savings and improved customer satisfaction ",
-        "Collaborated with the development team to enhance the Magento e-commerce website, optimizing performance and user interface with HTML and CSS ",
-        "Integrated a store credit and refund system, leading to a 20% revenue growth within two months of implementation",
-        "Contributed to cross-functional problem-solving, ensuring code quality and performance optimization for an efficient website"
+"Developed and implemented a new website section dedicated to device interaction using PHP and JavaScript",
+"Implemented a PHP-based automated label generation system, reducing processing time by 40% for LCD buyback requests",
+"Optimized a store credit and refund system, leading to a remarkable increase in revenue within two months",
+"Designed and deployed a MySQL database solution to efficiently manage repair and maintenance history for 1000+ phones",
+"Implemented reporting features using Java to generate and display insightful reports on repair trends, inventory status, and other relevant metrics",
+"Successfully reconciled and synchronized recorded MySQL inventory with user-provided counts using Java JDBC, ensuring precise inventory management",
+
       ]
     },
-    Zoominn: {
-      jobTitle: "Blockchain Developer Intern @",
-      duration: "DEC 2021 - JAN 2022",
-      location: "Chicago, IL",
+    Leo Parts: {
+      jobTitle: "Web Developer @",
+      duration: "JAN 2022 - AUG 2022",
+      location: "Houston, TX",
       desc: [
-        "Successfully created and deployed a custom token (ZONN) on the Binance Smart Chain using Solidity and other blockchain development tools",
-        "Designed and implemented secure, efficient, and scalable smart contacts to manage the token’s issuance, distribution, and trading on decentralized exchanged (DEX’s)",
-        "Provided liquidity pool and wallet management for the token, ensuring that it had sufficient liquidity for trading and was accessible to users through popular wallets and platforms"
+      "Collaborated with the team to enhance the Magento e-commerce site, achieving a 20% faster load time and a 15% increase in user engagement",
+      "Optimized server-side functionalities, resulting in a 25% improvement in data processing efficiency",
+      "Collaborated in cross-functional teams to enhance problem-solving capabilities and code quality",
+      "Demonstrated strong problem-solving skills by addressing complex technical challenges and finding efficient solutions",
+      "Engaged in continuous learning and skill development, staying updated on the latest technologies and industry best practices",
+      "Integrated 2 third-party APIs, expanding the platform’s functionality and feature set",
       ]
     }
 

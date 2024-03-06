@@ -76,7 +76,6 @@ class ThreeJSAnimation extends Component {
               }
             });
 
-            // Set the models initial scale
             model.scale.set(15, 15, 15);
             model.position.y = -23;
 
