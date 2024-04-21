@@ -87,16 +87,16 @@ const JobList = () => {
       duration: "JAN 2023 - AUG 2023",
       location: "Houston, TX",
       desc: [
-"Developed and implemented a new website section dedicated to device interaction using PHP and JavaScript",
-"Implemented a PHP-based automated label generation system, reducing processing time by 40% for LCD buyback requests",
-"Optimized a store credit and refund system, leading to a remarkable increase in revenue within two months",
-"Designed and deployed a MySQL database solution to efficiently manage repair and maintenance history for 1000+ phones",
-"Implemented reporting features using Java to generate and display insightful reports on repair trends, inventory status, and other relevant metrics",
+"Programmed a specialized section on the website using JavaScript, significantly enhancing user experience and resulting in a 10% increase in traffic",
+"Implemented automated label generation in Magento, utilizing API endpoints, formats, and authentication",
+"Optimized the store credit and refund system, resulting in a remarkable increase in revenue within two months, leveraging proficiency in process improvement and revenue generation strategies",
+"Designed and deployed a scalable MySQL database solution to efficiently manage repair and maintenance history for over 1,000+ phones, ensuring organized and accessible data storage",
+"Implemented reporting features using Java to generate and display insightful reports on repair, inventory status, and other relevant metrics",
 "Successfully reconciled and synchronized recorded MySQL inventory with user-provided counts using Java JDBC, ensuring precise inventory management",
 
       ]
     },
-    LeoParts: {
+    Leo Parts: {
       jobTitle: "Web Developer @",
       duration: "JAN 2022 - AUG 2022",
       location: "Houston, TX",
@@ -105,8 +105,8 @@ const JobList = () => {
       "Optimized server-side functionalities, resulting in a 25% improvement in data processing efficiency",
       "Collaborated in cross-functional teams to enhance problem-solving capabilities and code quality",
       "Demonstrated strong problem-solving skills by addressing complex technical challenges and finding efficient solutions",
-      "Engaged in continuous learning and skill development, staying updated on the latest technologies and industry best practices",
-      "Integrated 2 third-party APIs, expanding the platform’s functionality and feature set",
+      "Developed customized Python scripts utilizing Selenium to automatically retrieve new product data from vendor websites, eliminating manual search efforts and ensuring efficient inventory updates",
+      "Integrated APIs for payment gateways and shipping carriers, enhancing the platform’s functionality and improving user experience",
       ]
     }
 
