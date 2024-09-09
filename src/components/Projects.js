@@ -31,16 +31,22 @@ class Projects extends React.Component {
         link: "https://github.com/aivarkamchybek/PayNow",
         // open: ""
       },
+"ECommerceSite": {
+    "desc": "Explore the robust world of eCommerce with this comprehensive project built using the .NET Framework and Onion Architecture. This application provides a seamless shopping experience with a powerful comparison page, advanced filtering options, and a sophisticated search engine. The implementation of the Unit of Work pattern ensures efficient data management and integrity, making this a scalable and maintainable solution.",
+    "techStack": "C#, .NET Framework, Onion Architecture, Entity Framework, Unit of Work, HTML/CSS, JavaScript",
+    "link": "https://github.com/aivarkamchybek/E-Commerce-.Net-",
+        // open: ""
+      },
       "AI 3D T-Shirt Maker": {
         desc: "Welcome to the 3D T-Shirt Model Renderer project! This cutting-edge application combines the power of ThreeJS, React Three Fiber, TailwindCSS, and Framer Motion to create an immersive and visually stunning 3D experience",
         techStack: "JavaScript, Django, React Three Fiber, DALLE AI Integration, TailwindCSS, VSCode",
         link: "https://github.com/aivarkamchybek/Ai-Powered-3DReactMotionKit",
         // open: ""
       },
-      "Flashcards": {
-        desc: "The flashcards app is a web-based application that allows users to create, store, and review flashcards. The app features a user-friendly interface that makes it easy for users to create new flashcards, edit existing ones, and review them to improve their knowledge.",
-        techStack: "Python, HTML/CSS, Bootstrap, VSCode",
-        link: "https://github.com/aivarkamchybek/Flashcards-Application",
+      "TaskManager": {
+        desc: "Dive into the world of frontend development with this dynamic project! In this portfolio, I’ve developed an intuitive Task Management System using Angular, designed to streamline task handling and enhance user interaction.",
+        techStack: "Angular, TypeScript, HTML/CSS, Bootstrap, VSCode",
+        link: "https://github.com/aivarkamchybek/frontend",
         // open: "https://tdsb-app.herokuapp.com/"
       },
     };
