@@ -84,14 +84,14 @@ const JobList = () => {
   const experienceItems = {
     Parts4cells: {
       jobTitle: "Software Engineer Intern @",
-      duration: "JAN 2023 - AUG 2023",
+      duration: "JAN 2023 - June 2024",
       location: "Houston, TX",
       desc: [
-"Programmed a specialized section on the website using JavaScript, significantly enhancing user experience and resulting in a 10% increase in traffic",
-"Implemented automated label generation in Magento, utilizing API endpoints, formats, and authentication",
+"Enhanced product search and filtering in a .NET application, improving discoverability by 15% through optimized EntityFramework queries",
+"Implemented automated data mapping with AutoMapper, reducing development time by 20% and ensuring efficient data handling",
 "Optimized the store credit and refund system, resulting in a remarkable increase in revenue within two months, leveraging proficiency in process improvement and revenue generation strategies",
+"Designed a scalable service layer using the Repository Pattern, Unit of Work, and Onion Architecture for clean and efficient data operations",
 "Designed and deployed a scalable MySQL database solution to efficiently manage repair and maintenance history for over 1,000+ phones, ensuring organized and accessible data storage",
-"Implemented reporting features using Java to generate and display insightful reports on repair, inventory status, and other relevant metrics",
 "Successfully reconciled and synchronized recorded MySQL inventory with user-provided counts using Java JDBC, ensuring precise inventory management",
 
       ]
@@ -101,12 +101,12 @@ const JobList = () => {
       duration: "JAN 2022 - AUG 2022",
       location: "Houston, TX",
       desc: [
-      "Collaborated with the team to enhance the Magento e-commerce site, achieving a 20% faster load time and a 15% increase in user engagement",
+      "Enhanced the Magento e-commerce site by integrating Angular, achieving a 20% faster load time and a 15% increase in user engagement",
       "Optimized server-side functionalities, resulting in a 25% improvement in data processing efficiency",
       "Collaborated in cross-functional teams to enhance problem-solving capabilities and code quality",
       "Demonstrated strong problem-solving skills by addressing complex technical challenges and finding efficient solutions",
-      "Developed customized Python scripts utilizing Selenium to automatically retrieve new product data from vendor websites, eliminating manual search efforts and ensuring efficient inventory updates",
-      "Integrated APIs for payment gateways and shipping carriers, enhancing the platform’s functionality and improving user experience",
+      "Integrated Material Design components for a user-friendly interface and implemented sign-out functionality for effective session management",
+      "Leveraged Reactive Forms and FormBuilder to enhance user input handling and validation",
       ]
     }
 
