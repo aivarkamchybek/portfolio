@@ -84,29 +84,36 @@ const JobList = () => {
   const experienceItems = {
     Parts4cells: {
       jobTitle: "Software Engineer Intern @",
-      duration: "JAN 2023 - June 2024",
+      duration: "May 2023 - Present",
       location: "Houston, TX",
       desc: [
-"Enhanced product search and filtering in a .NET application, improving discoverability by 15% through optimized EntityFramework queries",
-"Implemented automated data mapping with AutoMapper, reducing development time by 20% and ensuring efficient data handling",
-"Optimized the store credit and refund system, resulting in a remarkable increase in revenue within two months, leveraging proficiency in process improvement and revenue generation strategies",
-"Designed a scalable service layer using the Repository Pattern, Unit of Work, and Onion Architecture for clean and efficient data operations",
-"Designed and deployed a scalable MySQL database solution to efficiently manage repair and maintenance history for over 1,000+ phones, ensuring organized and accessible data storage",
-"Successfully reconciled and synchronized recorded MySQL inventory with user-provided counts using Java JDBC, ensuring precise inventory management",
-
+"Enhanced product search and filtering in an internal application using .NET 7 and C#, optimizing queries, and resulting in a 15% improvement in discoverability.",
+"Implemented automated data mapping with AutoMapper, streamlining data handling, and reducing development time by 20%.",
+"Designed a scalable service layer leveraging the Repository Pattern, Unit of Work, and Onion Architecture, ensuring 30% greater maintainability, and cleaner data operations.",
+"Developed and deployed a scalable MSSQL database solution to efficiently manage repair history for 1,000+ phones, significantly improving data access, and cutting retrieval times by 25%.",
+"Built a Data Access Layer with Entity Framework Core using a Database First approach, optimizing inventory management, and enhancing data efficiency by 15%.",
+"Utilized Azure Repos for seamless CI/CD pipelines, ensuring efficient code integration, and deployment processes.",
+"Automated key tasks using Azure Functions, increasing efficiency, and reducing manual workload.",
       ]
     },
     LeoParts: {
-      jobTitle: "Web Developer @",
-      duration: "JAN 2022 - AUG 2022",
+      jobTitle: "Web Developer Intern @",
+      duration: "May 2022 - December 2022",
       location: "Houston, TX",
       desc: [
-      "Enhanced the Magento e-commerce site by integrating Angular, achieving a 20% faster load time and a 15% increase in user engagement",
-      "Optimized server-side functionalities, resulting in a 25% improvement in data processing efficiency",
-      "Collaborated in cross-functional teams to enhance problem-solving capabilities and code quality",
-      "Demonstrated strong problem-solving skills by addressing complex technical challenges and finding efficient solutions",
-      "Integrated Material Design components for a user-friendly interface and implemented sign-out functionality for effective session management",
-      "Leveraged Reactive Forms and FormBuilder to enhance user input handling and validation",
+      "Leveraged Scrum and Agile methodologies to ensure iterative progress and timely delivery of high-quality features.",
+"Utilized Dependency Injection to manage business logic within services, allowing components to focus solely on UI concerns, resulting in cleaner and more maintainable code.",
+"Leveraged Observables and RxJS pipe operators to implement asynchronous operations in Angular applications, improving responsiveness by 20%.",
+"Integrated Material Design components for a user-friendly interface, increasing user satisfaction ratings by 15%, and implemented sign-out functionality for effective session management.",
+"Leveraged Reactive Forms and FormBuilder to enhance user input handling and validation, reducing input errors by 25%.",
+
+
+
+
+
+
+
+
       ]
     }
 
