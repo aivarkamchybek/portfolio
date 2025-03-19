@@ -72,7 +72,7 @@ html {
   content: "";
   display: block;
   width: 300px;
-  margin-top: 39px;
+  margin-top: 79px;
   height: 1px;
   margin-left: 20px;
   background-color: var(--lightest-navy);
@@ -83,6 +83,7 @@ html {
   color: var(--lightest-slate);
   font-size: 46px;
   font-weight: bold;
+  margin-top: 40px;
 }
 
 @media only screen and (max-width: 600px) {
