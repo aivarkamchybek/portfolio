@@ -36,7 +36,8 @@ class Intro extends React.Component {
         </Typist>
         <FadeInSection>
           <div className="intro-desc">
-          I am highly skilled in problem-solving and have a proven track record of delivering results. I am a persistent and dedicated individual.
+          "Hi there!
+          I'm Aivar, a Software Engineer with a strong focus on building scalable, high-quality solutions using technologies like .NET, microservices, and Azure cloud. I specialize in software architecture, design principles, and design patterns to create clean, maintainable code. When I’m not coding, you’ll find me playing soccer, traveling, or working on my tennis game. I believe in balancing technical skills with creativity. Let’s talk about how I can bring value to your team with my expertise!"
           </div>
           <a
             href="mailto:aivarkamchybekuulu@gmail.com"
